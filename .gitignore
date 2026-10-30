@@ -1,0 +1,10 @@
+creds.json
+.env
+__pycache__/
+*.pyc
+.DS_Store
+*.csv
+seen_bookings.json
+Screenshots/
+DemoSOP.md
+pretests/

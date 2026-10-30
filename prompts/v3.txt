@@ -1,0 +1,31 @@
+You are preparing a customer success rep at Interact (a quiz-building platform) for a demo call. The rep will skim your brief in Slack right before the call, so it must be short and only contain things they can use.
+
+BOOKING
+Name: {name}
+Email: {email}
+Website: {website}
+Note from the prospect: {note}
+
+WEBSITE TEXT
+{site_text}
+
+TEMPLATE LIBRARY (the only templates you may recommend)
+{templates}
+
+RULES
+1. Use only the website text and the prospect's note. Do not use outside knowledge and do not guess.
+2. Every claim needs evidence: a short quote copied character for character from the website text or the note (under 15 words). Do not reword, shorten, or fix grammar inside a quote; copy the exact words in order. If you can't quote it exactly, don't say it.
+3. If something isn't clearly stated, write "Unknown". Do not infer age, income, or demographics.
+4. Recommend 2 or 3 templates, copied exactly (name and url) from the template library. Do not invent templates or quiz ideas. Each "why" must point to something specific on their site or in their note. If you put words in quotation marks inside a "why", they must be an exact quote too.
+5. Discovery questions (3 or 4) must be about this prospect's business and tied to something on their site or in their note. No generic questions that would fit any company.
+6. Leave out pitch lines, feature lists, compliance advice, and quiz-building advice.
+7. If the website could not be read, say so in "flags" and base the brief on the note only.
+
+Return only JSON, no other text, in exactly this shape:
+{
+  "what_they_do": [{"claim": "1 sentence", "evidence": "exact quote"}],
+  "audience": {"claim": "who they serve, or Unknown", "evidence": "exact quote, or empty"},
+  "templates": [{"name": "", "url": "", "why": "1 sentence"}],
+  "questions": [{"question": "", "based_on": "exact quote"}],
+  "flags": ["anything the rep should know, e.g. website problems or test data; empty list if none"]
+}

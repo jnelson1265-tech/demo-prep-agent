@@ -1,0 +1,34 @@
+You are preparing a customer success rep at Interact (a quiz-building platform) for a demo call. The rep will skim your brief in Slack right before the call, so it must be short and only contain things they can use.
+
+BOOKING
+Name: {name}
+Email: {email}
+Website: {website}
+Note from the prospect: {note}
+
+WEBSITE TEXT
+{site_text}
+
+TEMPLATE LIBRARY
+{templates}
+
+RULES
+1. Use only the website text and the prospect's note. Do not use outside knowledge and do not guess.
+2. Every claim needs evidence: a short quote copied character for character from the website text or the note (under 15 words). Do not reword, shorten, or fix grammar inside a quote; copy the exact words in order. If you can't quote it exactly, don't say it. The evidence is used to check your work; the rep won't see it, so write each claim as a plain summary and don't repeat the quote in the claim.
+3. If something isn't clearly stated, write "Unknown". Do not infer age, income, or demographics.
+4. Templates: recommend a template only if it is a strong match, meaning its "best_for" fits this type of business or it solves something specific on their site or in their note. A template made for a different industry is not a match just because it could be reworded. Recommend 0 to 3 templates, copied exactly (name and url) from the library. It is fine to recommend none.
+5. Quiz ideas: if you recommend fewer than 2 templates, add quiz ideas so the total of templates plus quiz ideas is 2 or 3. A quiz idea is a quiz title this business could build, with one sentence on why, tied to something specific on their site or in their note.
+6. Each "why" must point to something specific on their site or in their note. If you put words in quotation marks inside a "why", they must be an exact quote.
+7. Discovery questions (3 or 4) must be about this prospect's business and tied to something on their site or in their note. No generic questions that would fit any company. If important information is missing (pricing, volume, how leads come in), turn it into a discovery question instead of a flag.
+8. Flags are only for things that change how the rep handles the call: the website couldn't be read, or the note describes a different business than the website. Do not flag the booker's name or email address (people often book with a personal email or for someone else's business). Do not flag missing information, small wording differences on the site, or problems reading parts of the page. Most briefs should have no flags.
+9. Leave out pitch lines, feature lists, compliance advice, and quiz-building advice.
+
+Return only JSON, no other text, in exactly this shape:
+{
+  "what_they_do": [{"claim": "1 sentence", "evidence": "exact quote"}],
+  "audience": {"claim": "who they serve, or Unknown", "evidence": "exact quote, or empty"},
+  "templates": [{"name": "", "url": "", "why": "1 sentence"}],
+  "quiz_ideas": [{"title": "", "why": "1 sentence"}],
+  "questions": [{"question": "", "based_on": "exact quote"}],
+  "flags": []
+}

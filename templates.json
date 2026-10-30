@@ -1,0 +1,282 @@
+[
+  {
+    "name": "How healthy are you really?",
+    "url": "https://www.tryinteract.com/quiz/how-healthy-are-you-really",
+    "category": "health-fitness",
+    "best_for": "Nutritionists, health coaches, wellness brands, supplement companies",
+    "description": "Scores the taker's healthy-living habits (snacks, caffeine, vitamins) as Newcomer, Novice, or Aficionado, with tips for each level."
+  },
+  {
+    "name": "Where are you on your unique fitness journey?",
+    "url": "https://www.tryinteract.com/quiz/where-are-you-on-your-unique-fitness-journey",
+    "category": "health-fitness",
+    "best_for": "Personal trainers, fitness coaches, gyms, weight-loss programs",
+    "description": "Places the taker on a fitness journey (Just Beginning, Part Way There, Fully Realized) based on food, stress, and goal-setting habits."
+  },
+  {
+    "name": "Improvements to Live a Healthier Life",
+    "url": "https://www.tryinteract.com/quiz/improvements-to-live-a-healthier-life",
+    "category": "wellness",
+    "best_for": "Wellness coaches, health practitioners, lifestyle brands",
+    "description": "Asks about age, schedule, and sleep, then recommends one focus area for more energy: sleep, food, or exercise."
+  },
+  {
+    "name": "What type of yoga is right for you?",
+    "url": "https://www.tryinteract.com/quiz/what-type-of-yoga-is-right-for-you",
+    "category": "yoga",
+    "best_for": "Yoga studios, yoga teachers, online yoga programs",
+    "description": "Recommends a yoga style (Restorative, Gentle Hatha, Power, Kundalini) based on activity level, stress, and personality."
+  },
+  {
+    "name": "Let’s Help You Choose the Perfect Keto-Friendly Wine",
+    "url": "https://www.tryinteract.com/quiz/let-s-help-you-choose-the-perfect-keto-friendly-wine",
+    "category": "food-drink",
+    "best_for": "Wineries, wine shops, wine clubs, keto or diet brands",
+    "description": "Product recommender that asks about food preferences and favorite wine traits, then suggests a wine (Cabernet, Pinot Noir, Rosé, Sauvignon Blanc, Chardonnay, Prosecco)."
+  },
+  {
+    "name": "What type of cupcake are you?",
+    "url": "https://www.tryinteract.com/quiz/what-type-of-cupcake-are-you",
+    "category": "food-drink",
+    "best_for": "Bakeries, dessert shops, food bloggers",
+    "description": "Lighthearted personality quiz that matches the taker to a cupcake flavor (chocolate, strawberry, coffee, red velvet, and more)."
+  },
+  {
+    "name": "Vocation or Vacation: How Passionate Are You Towards Work?",
+    "url": "https://www.tryinteract.com/quiz/vocation-or-vacation-how-passionate-are-you-towards-work",
+    "category": "career",
+    "best_for": "Career coaches, recruiters, job boards, outplacement services",
+    "description": "16-question assessment of job satisfaction with three results: time to change jobs, content, or passionate about your job."
+  },
+  {
+    "name": "Are you at-risk of burnout in your Biz?",
+    "url": "https://www.tryinteract.com/quiz/are-you-at-risk-of-burnout-in-your-biz",
+    "category": "entrepreneur",
+    "best_for": "Business coaches, wellness coaches for entrepreneurs, productivity consultants",
+    "description": "60-second check on business-owner burnout (sleep, breaks, self-care), with results from burned out to balanced."
+  },
+  {
+    "name": "Is Your Offer Ready to Sell?",
+    "url": "https://www.tryinteract.com/quiz/is-your-offer-ready-to-sell",
+    "category": "entrepreneur",
+    "best_for": "Business coaches, online course creators, marketing consultants",
+    "description": "Finds which phase of selling a business owner is in (Focus Your Brand, Uncover Your Offer, Network + Market) based on brand, audience, and offer."
+  },
+  {
+    "name": "Are You Money Smart?",
+    "url": "https://www.tryinteract.com/quiz/are-you-money-smart",
+    "category": "finance",
+    "best_for": "Financial advisors, financial coaches, budgeting apps, banks",
+    "description": "Scenario-based money personality quiz (bonus, upgrades, 401(k)) with results like The Splurger, The Hustler, and The Banker."
+  },
+  {
+    "name": "Healthy Business Accounting Habits Quiz",
+    "url": "https://www.tryinteract.com/quiz/healthy-business-accounting-habits-quiz",
+    "category": "finance",
+    "best_for": "Accountants, bookkeepers, CPA firms, accounting software",
+    "description": "Checks a business's bookkeeping habits (separate accounts, reconciliation, break-even, taxes) and rates them from healthy to needing help."
+  },
+  {
+    "name": "What treatment is best for you?",
+    "url": "https://www.tryinteract.com/quiz/what-treatment-is-best-for-you",
+    "category": "beauty",
+    "best_for": "Spas, salons, med spas, beauty studios",
+    "description": "Matches the taker to a spa treatment (Facial, Pedicure, Lash Lift, Relaxation Massage) through personality questions."
+  },
+  {
+    "name": "What Is Your Skincare Profile?",
+    "url": "https://www.tryinteract.com/quiz/what-is-your-skincare-profile",
+    "category": "skin-care",
+    "best_for": "Skincare brands, estheticians, beauty retailers",
+    "description": "Sorts the taker's skincare approach into four profiles (Uncomplicated, Simplicity, Clean and Natural, Go for the Best) based on routine and buying habits."
+  },
+  {
+    "name": "What's Your Home Office Design Style?",
+    "url": "https://www.tryinteract.com/quiz/what-s-your-home-office-design-style",
+    "category": "interior-design",
+    "best_for": "Interior designers, furniture and decor stores, home stagers",
+    "description": "Picture-based quiz that matches the taker to a decorating style (Contemporary, Coastal, Farmhouse, Industrial, Scandinavian, Glam, and more)."
+  },
+  {
+    "name": "What's Your Organizing Style?",
+    "url": "https://www.tryinteract.com/quiz/what-s-your-organizing-style",
+    "category": "home-garden",
+    "best_for": "Professional organizers, home goods stores, storage brands",
+    "description": "Matches the taker to an organizing-product style (Clean + Simple, Coastal, Farmhouse, Moody + Modern)."
+  },
+  {
+    "name": "What fashion style suits your personality?",
+    "url": "https://www.tryinteract.com/quiz/what-fashion-style-suits-your-personality",
+    "category": "fashion",
+    "best_for": "Clothing boutiques, personal stylists, fashion e-commerce",
+    "description": "Two-minute quiz matching the taker to a fashion style (Avant-Garde Vintage, Chic Minimalism, Casual Athleisure, Classic Preppy)."
+  },
+  {
+    "name": "What’s your jewelry style?",
+    "url": "https://www.tryinteract.com/quiz/what-s-your-jewelry-style",
+    "category": "jewelry",
+    "best_for": "Jewelry brands, jewelry designers, accessory boutiques",
+    "description": "Matches the taker to a jewelry style (The Dreamer, The Flower Child, The Rebel, The Lady) and asks about typical spend per piece."
+  },
+  {
+    "name": "What Planning Experience Are You Looking For?",
+    "url": "https://www.tryinteract.com/quiz/what-planning-experience-are-you-looking-for",
+    "category": "wedding",
+    "best_for": "Wedding planners, event planners, event venues",
+    "description": "Asks about venue, vendors, budget, and needs, then recommends a planning package (Full Service, Partial, Wedding Management, Fully Customized)."
+  },
+  {
+    "name": "What Invitation Style Matches Your Personality?",
+    "url": "https://www.tryinteract.com/quiz/what-invitation-style-matches-your-personality",
+    "category": "wedding",
+    "best_for": "Stationery designers, invitation shops, wedding vendors",
+    "description": "Matches the taker to an invitation style (Modern, Traditional, Vintage, Glam, Unique) based on taste and personality."
+  },
+  {
+    "name": "Discover Your Family's Style",
+    "url": "https://www.tryinteract.com/quiz/discover-your-family-s-style",
+    "category": "photography",
+    "best_for": "Family photographers, portrait studios, newborn photographers",
+    "description": "Helps families find their photo style (Classic, Natural, Modern, Hybrid) based on the photos and artwork they like."
+  },
+  {
+    "name": "What's your leadership style?",
+    "url": "https://www.tryinteract.com/quiz/what-s-your-leadership-style",
+    "category": "leadership",
+    "best_for": "Leadership coaches, management trainers, HR consultants",
+    "description": "Two-minute quiz on how a manager leads, with results Directing, Coaching, Supporting, or Delegating, plus workplace tips."
+  },
+  {
+    "name": "How Mature are Your HR Practices?",
+    "url": "https://www.tryinteract.com/quiz/how-mature-are-your-hr-practices",
+    "category": "human-resources",
+    "best_for": "HR consultants, HR software, recruiting firms, PEOs",
+    "description": "Rates a company's HR practices (org design, recruiting, compensation) as Foundational, Functional, or Strategic."
+  },
+  {
+    "name": "What Type of Accountability Partner Are You?",
+    "url": "https://www.tryinteract.com/quiz/what-type-of-accountability-partner-are-you",
+    "category": "coaching",
+    "best_for": "Life coaches, coaching programs, mastermind and community groups",
+    "description": "Finds the taker's support style (Motivational Cheerleader, Strategic Planner, Honest Truth-Teller, Empathetic Listener)."
+  },
+  {
+    "name": "Want to optimize the sale of your house?",
+    "url": "https://www.tryinteract.com/quiz/want-to-optimize-the-sale-of-your-house",
+    "category": "real-estate",
+    "best_for": "Real estate agents, listing agents, home stagers",
+    "description": "Nine questions about a home's paint, fixtures, and updates, with results from ready to list to needs work."
+  },
+  {
+    "name": "Which Neighborhood Should You Live in?",
+    "url": "https://www.tryinteract.com/quiz/which-neighborhood-should-you-live-in",
+    "category": "real-estate",
+    "best_for": "Real estate agents, buyer's agents, relocation services, brokerages",
+    "description": "Matches buyers to a neighborhood type (Trendy Walkable, Family-Friendly Suburb, Peaceful Retreat, Upscale Modern Hub)."
+  },
+  {
+    "name": "Are You Ready For A Full-Scale SEO Campaign?",
+    "url": "https://www.tryinteract.com/quiz/are-you-ready-for-a-full-scale-seo-campaign",
+    "category": "marketing",
+    "best_for": "SEO agencies, digital marketing agencies, marketing consultants",
+    "description": "Checks a company's readiness for SEO (site age, leads, content, partners) with results Not Yet, Almost There, or Yes."
+  },
+  {
+    "name": "How Strong is Your Email Marketing Strategy?",
+    "url": "https://www.tryinteract.com/quiz/how-strong-is-your-email-marketing-strategy",
+    "category": "marketing",
+    "best_for": "Email marketing consultants, marketing agencies, email software",
+    "description": "Rates the taker's email marketing (frequency, content, automation) as Novice, Junior Marketer, or Pro."
+  },
+  {
+    "name": "How Strong is Your Brand?",
+    "url": "https://www.tryinteract.com/quiz/how-strong-is-your-brand",
+    "category": "branding",
+    "best_for": "Brand strategists, branding agencies, graphic designers",
+    "description": "Rates a business's brand stage and online presence, from rookie brand to thriving and ready to scale."
+  },
+  {
+    "name": "What is your learning styles?",
+    "url": "https://www.tryinteract.com/quiz/what-is-your-learning-styles",
+    "category": "education",
+    "best_for": "Tutors, schools, online course creators, education companies",
+    "description": "Statement-based quiz that identifies the taker's learning style (visual, auditory, verbal, kinesthetic, logical, social, solitary)."
+  },
+  {
+    "name": "Which teacher side hustle is right for you?",
+    "url": "https://www.tryinteract.com/quiz/which-teacher-side-hustle-is-right-for-you",
+    "category": "education",
+    "best_for": "Teacher-focused businesses, course platforms, education coaches",
+    "description": "Helps teachers pick a side business (Online Tutoring, Course Creation, Selling Resources, Coaching)."
+  },
+  {
+    "name": "What dog should you get?",
+    "url": "https://www.tryinteract.com/quiz/what-dog-should-you-get",
+    "category": "animals",
+    "best_for": "Pet stores, breeders, shelters and rescues, pet brands",
+    "description": "Asks about activity level, time, size, and fur, then recommends a dog breed group."
+  },
+  {
+    "name": "What's Your Perfect Summer Destination?",
+    "url": "https://www.tryinteract.com/quiz/what-s-your-perfect-summer-destination",
+    "category": "travel",
+    "best_for": "Travel agencies, travel bloggers, tour companies",
+    "description": "Matches the taker to a summer trip (Hawaii, Canada, Europe, Africa, Staycation) based on travel habits and interests."
+  },
+  {
+    "name": "Do you need someone to help with social media?",
+    "url": "https://www.tryinteract.com/quiz/do-you-need-someone-to-help-with-social-media",
+    "category": "social-media",
+    "best_for": "Social media managers, social media agencies, virtual assistants",
+    "description": "Sorts business owners into types (The Guru, The Technophobe, The Overwhelmed Expert, The Procrastinator) to show whether they need social media help."
+  },
+  {
+    "name": "What is your productivity style secret weapon?",
+    "url": "https://www.tryinteract.com/quiz/what-is-your-productivity-style-secret-weapon",
+    "category": "productivity",
+    "best_for": "Productivity coaches, business coaches, virtual assistants",
+    "description": "Finds a business owner's productivity style (The Maverick, The Artisan, The Maestro) from how they handle time, email, and tasks."
+  },
+  {
+    "name": "How can you be more eco-friendly?",
+    "url": "https://www.tryinteract.com/quiz/how-can-you-be-more-eco-friendly",
+    "category": "sustainability",
+    "best_for": "Sustainable brands, eco product shops, environmental nonprofits",
+    "description": "Asks about daily habits (lights, notes, showers, bags) and shows where the taker can cut back: plastic, paper, or electricity."
+  },
+  {
+    "name": "What's your parenting style?",
+    "url": "https://www.tryinteract.com/quiz/what-s-your-parenting-style",
+    "category": "family-parenting",
+    "best_for": "Parenting coaches, family brands, kids' products, parenting bloggers",
+    "description": "Two-minute quiz that identifies the taker's parenting style (Indulgent, Hands-Off, Balanced, Strict), plus tips."
+  },
+  {
+    "name": "What Will Most Help You Write Your Book?",
+    "url": "https://www.tryinteract.com/quiz/what-will-most-help-you-write-your-book",
+    "category": "writing",
+    "best_for": "Book coaches, writing programs, self-publishing services, editors",
+    "description": "Finds an aspiring author's biggest blocker (Time Management, Accountability, Clarity, Fear)."
+  },
+  {
+    "name": "The 'Profit Bottleneck' Finder",
+    "url": "https://www.tryinteract.com/quiz/the-profit-bottleneck-finder",
+    "category": "sales",
+    "best_for": "Business coaches, marketing consultants, online course creators",
+    "description": "Finds what is limiting an online business's sales: a traffic, trust, or offer problem."
+  },
+  {
+    "name": "Is your business prepared?",
+    "url": "https://www.tryinteract.com/quiz/is-your-business-prepared",
+    "category": "business",
+    "best_for": "Insurance agencies, risk and safety consultants, business continuity services",
+    "description": "Assesses an organization's emergency preparedness (task force, policies, training) and gives a risk level."
+  },
+  {
+    "name": "Personal Insight Test: Volunteering",
+    "url": "https://www.tryinteract.com/quiz/personal-insight-test-volunteering",
+    "category": "non-profit",
+    "best_for": "Nonprofits, volunteer programs, community organizations",
+    "description": "Profiles what motivates someone to volunteer and how they work best (alone or in groups, results-driven or not)."
+  }
+]

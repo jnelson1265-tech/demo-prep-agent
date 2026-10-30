@@ -1,0 +1,9 @@
+A prospect booked a demo of Interact, a quiz-building platform. Research this company and suggest quiz ideas.
+
+Name: {name}
+Email: {email}
+Website: {website}
+Note from the prospect: {note}
+
+Website text:
+{site_text}
