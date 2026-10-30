@@ -1,6 +1,6 @@
 # Demo Call Prep Agent
 
-An AI agent that preps Interact's customer success reps for demo calls. When a prospect books a demo on Calendly, the agent reads their website, matches them to real quiz templates, and posts a short prep brief to Slack. The rep doesn't have to run anything.
+An AI agent that preps customer success reps for demo calls. When a prospect books a demo on Calendly, the agent reads their website, matches them to real quiz templates, and posts a short prep brief to Slack. The rep doesn't have to run anything.
 
 ![Prep brief posted to Slack](docs/slack-brief-course-creator.png)
 
